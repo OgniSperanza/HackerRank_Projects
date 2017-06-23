@@ -41,3 +41,5 @@ Sample Output
 Explanation
 
 The table is sorted on the second attribute shown as  because it's -indexed.
+
+https://www.hackerrank.com/challenges/python-sort-sort
